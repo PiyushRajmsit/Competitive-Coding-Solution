@@ -1,3 +1,24 @@
+// Date - 2 Jan 2019
+/*
+Solution By: Piyush Raj
+
+/=============\   /===========\
+||	     ||	  ||	      ||
+||	     ||   ||          ||
+||	     ||	  ||	      ||
+||=============   ||==========||
+||		  ||   \\
+||		  ||    \\
+||		  ||	 \\
+||		  ||	  \\
+                           \\
+
+Platform : Hackerearth
+Ques   : Space Smuggler Problem
+Concept : Reverse Graph
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long 
