@@ -14,8 +14,8 @@ Solution By: Piyush Raj
                            
 
 Platform : Hackerearth
-Ques   : Falling Dominos Problem
-Concept : Kosaraju Graph
+Ques   : Permutaions Swap Problem
+Concept : DFS/BFS Graph
 */
 
 
