@@ -1,3 +1,21 @@
+// Date - 12 Dec 2017
+/*
+Solution By: Piyush Raj
+
+/=============\   /===========\
+||	      ||  ||	      ||
+||	      ||  ||          ||
+||	      ||  ||	      ||
+||=============   ||==========||
+||		  ||  \\
+||		  ||   \\
+||		  ||	\\
+||		  ||	 \\
+                           
+
+Platform : Hackerearth
+Ques   : Cibil
+*/
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
