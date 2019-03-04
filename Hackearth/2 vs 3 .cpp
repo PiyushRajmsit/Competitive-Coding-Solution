@@ -1,3 +1,23 @@
+// Date - 12 Jan 2018
+/*
+Solution By: Piyush Raj
+
+/=============\   /===========\
+||           ||   ||          ||
+||           ||   ||          ||
+||           ||   ||          ||
+||=============   ||===========/
+||                ||  \\
+||                ||   \\
+||                ||    \\
+||                ||     \\
+                           
+
+Platform : Hackerearth
+Ques   : 2 vs 3 Problem
+Concept : Segment Tree
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
  
