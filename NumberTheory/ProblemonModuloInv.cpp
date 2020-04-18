@@ -77,9 +77,9 @@ int main() {
 			d = d/g;
 			triplets answer = ModInverse(b,a);
 			int modInverse_b_a = (answer.x + a)%a;
-			int y1 = (d%a) * modInverse_b_a;
+			int y1 = ((d%a) * modInverse_b_a)%a;
 			
-			if(y1 < 0 || b*y1 > d)
+			if(b*y1 > d)
 			{
 				ans = 0;
 			}
@@ -94,3 +94,4 @@ int main() {
 	}
     return 0;
 }
+
